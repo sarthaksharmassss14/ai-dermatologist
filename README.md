@@ -5,7 +5,8 @@ Users can **speak their symptoms** and/or **upload an image**, and the bot provi
 This project is for **learning purposes only** (not real medical advice).  
 
 ---
-<img width="1865" height="840" alt="Screenshot 2025-08-16 193801" src="https://github.com/user-attachments/assets/923094b6-0755-49f6-a567-7f8b6bf0adb6" />
+<img width="1888" height="846" alt="Screenshot 2025-08-16 202119" src="https://github.com/user-attachments/assets/73242bad-8688-4f92-ae6e-b73e8ff54ad4" />
+
 ---
 
 ## 🚀 Features
